@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+  <div style="color: green; background-color: red;">
+    <h1> First  div</h1>
+    <p> this is paragraph<b> THIS IS BOLD</b></p>
+  </div>
+
+    <div style="color: red; background-color: blue;">
+      <h2>Second div</h2>
+      <b> bold</b>
+    </div>
+  </body>
+</html>
