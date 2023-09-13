@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+    <link rel = "icon" href="https://assets.materialup.com/uploads/30080ad4-97ee-47f7-a98a-c0d2e8d704b2/preview">
+  </head>
+  <body>
+    <a href="mailto:sample@sample.com">send me an email</a> 
+  </body>
+</html>
