@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+  <iframe src = "https://google.com" height="500" width="500" style="border: None"></iframe>
+  </body>
+</html>
