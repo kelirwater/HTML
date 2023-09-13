@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+    <pre>
+    <b>This is a text</b>
+    <strong>This is a strong</strong>
+    <em>Emphasized</em>
+    <i>Italic</i>
+      mark this <mark>Importance information</mark>
+      don't do it<del> Don't do</del>
+      <ins>inserted</ins>
+      <small>This is a quite </small>
+      0<sub>2</sub>
+      7<sup>3</sup>
+    </pre>
+  </body>
+</html>
