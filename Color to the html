@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <!-- The code below display the heading-->
+    <h1 Style="color: blue; background-color:red;">This is a heading</h1>
+<!--
+    <p>
+  
+</p>-->
+  </body>
+</html>
