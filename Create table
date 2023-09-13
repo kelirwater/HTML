@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Age</td>
+        <td>Class</td>
+      </tr>
+
+      <tr>
+        <td> Kelir</td>
+        <td>19</td>
+        <td>year 12 </td> 
+      </tr>
+
+      <tr>
+        <td> Tiger</td>
+        <td>27</td>
+        <td> yaer 23</td>
+      </tr>
+    </table>
+  </body>
+</html>
