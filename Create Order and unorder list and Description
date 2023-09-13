@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+  <ul>
+    <li>Name 1</li>
+    <li> Name 2</li>
+    <li> Name 3</li>
+  </ul>
+
+    <ol>
+      <li> Name 1</li>
+      <li> Name 2</li>
+      <li> Name 3</li>
+    </ol>
+
+    <dl>
+      <dt>Name 1</dt>
+      <dd>* This is the first image</dd>
+
+      <dt>Name 2</dt>
+      <dd> * This is the Second image</dd>
+    </dl>
+  </body>
+</html>
