@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+<form> 
+  <label for="username"> Name </label>
+  <br>
+  <input type = "text" name="username" id="username">
+  <br>
+  <label> School </label>
+  <br>
+  <input type="text" name="school" id="school">
+</form>
+  </body>
+</html>
