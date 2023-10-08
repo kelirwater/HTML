@@ -7,11 +7,9 @@
   <body>
 <form> 
   <label for="username1"> tomi </label>
-  <br>
   <input type = "radio" name="username1" id="username1" value="tomi">
   <br>
   <label for="username2">tim </label>
-  <br>
   <input type="radio" name="username2" id="username2" value="tim">
 </form>
 
