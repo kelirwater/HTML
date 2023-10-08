@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+  </head>
+  <body>
+<form action="form.html" method="get"> 
+  <label for="username1"> tomi </label>
+  <input type = "radio" name="username1" id="username1" value="tomi">
+
+  
+  <br>
+
+  
+  <label for="username2">tim </label>
+  <input type="radio" name="username2" id="username2" value="tim">
+
+  <br>
+
+  <input type = "submit" value="send">
+</form>
+
+
+  </body>
+</html>
