@@ -3,6 +3,8 @@
   <body>
     <!-- The code below display the heading-->
     <h1 Style="color: blue; background-color:red;">This is a heading</h1>
+
+    <a href = "mailto:sample@sample.com"> send me ai mail </a> 
 <!--
     <p>
   
