@@ -1,0 +1,30 @@
+index.html
+
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+    <link rel="Stylesheet" href="style.css">
+    
+  </head>
+  <body>
+
+<h1 id="welcome"> Hi </h1>
+    <h1 class="heading">hello</h1>
+    <p class="heading">hello</p>
+    
+
+
+
+  </body>
+</html>
+
+
+css.style
+
+h1,p{
+  color: red;
+}
+
