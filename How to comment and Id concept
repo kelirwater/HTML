@@ -1,0 +1,25 @@
+Index.html
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>My page</title>
+    <link rel="Stylesheet" href="style.css">
+    
+  </head>
+  <body>
+
+<h1 id="welcome"> Hi </h1>
+
+  </body>
+</html>
+
+
+style.css
+
+
+/*comment*/
+#welcome {
+  background-color: green;
+}
