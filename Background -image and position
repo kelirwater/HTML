@@ -1,0 +1,4 @@
+body{
+  background-image: url("https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"); background image - image you want to displau in css.  
+  background-position: right top; position of the image where you have attached the image from backgrounf-image
+    }
