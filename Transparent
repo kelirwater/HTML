@@ -1,0 +1,4 @@
+body{
+  background-color:mediumslateblue; defines color - blue
+  opacity: 0.9; - transparency : as per 0.1 is full transparent and 0.9 is less transparent.
+}
