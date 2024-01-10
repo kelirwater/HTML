@@ -1,0 +1,24 @@
+<!DOCTYPE html> 
+
+<html>
+
+  <head>
+    
+    <title > My Page </title>  
+    <link rel="stylesheet" href="style.css">
+  </head>
+ 
+  <body>
+<h1> Hi
+  <b> hey</b>
+  <b> tomi</b>
+  <p>
+    <b> hey</b>
+  </p>
+  <b> huy</b>
+</h1>
+    <b> hello</b>
+    <b> guy</b>
+    
+  </body>
+</html>
