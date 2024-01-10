@@ -1,0 +1,69 @@
+<!DOCTYPE html> 
+
+<html>
+
+  <head>
+    
+    <title > My Page </title>  
+    <link rel="stylesheet" href="style.css">
+  </head>
+ 
+  <body>
+    <div class="dropdown">
+  <button class="dropdownbutton">Dropdown Button</button> -> created a dropdown button 
+  <div class="dropdown-menu">
+    <a href="#">List</a> hyperlink with list
+    <a href="#">List</a> hyperlink with list
+    <a href="#">List</a> hyperlink with list
+    <a href="#">List</a> hyperlink with list
+
+
+  </div>
+</div>
+  </body>
+</html>
+
+
+
+
+
+CSS::
+
+.dropdownbutton{
+  background-color: blue;
+  color: white;
+  padding: 13px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;/* whenver cursor moves to a particular element, the mouse arrow will change to a pointer*/
+
+  .dropdown{
+    position: relative;
+    display:inline-block;
+  }
+}
+.dropdown-menu{
+  display: none ;
+  position: absolute;/* possible size according to the box or webpage or given measures */
+  background-color: lightblue;
+  min-width: 150px;
+}
+
+.dropdown-menu a{
+  color: black;
+  padding: 11px 15px;
+  text-decoration: none;
+display:block;/*display whatever elements are in the a in block*/
+}
+
+.dropdown-menu a:hover{            -> important
+  background-color: white;
+}
+
+.dropdown:hover .dropdown-menu{/* we can use*/    -->important
+  display: block;
+}
+.dropdown:hover .dropdownbutton{/*we can use this as well*/   -> important
+  background-color: darkgrey;
+}
+
