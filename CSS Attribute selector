@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+
+<html>
+
+  <head>
+    
+    <title > My Page </title>  
+    <link rel="stylesheet" href="style.css">
+  </head>
+ <div class="test"> 
+   <div class="amp">
+     <b>hooo</b>
+   </div>
+ <p> HI</p></div>
+  <body>
+   
+  </body>
+</html>
