@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+
+<html>
+
+  <head>
+    
+    <title > My Page </title>  
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <!--> https://fonts.googleapis.com/icon?family=Material+Icons" is an globalized google icons which we used in the body section </!-->
+    
+    
+  </head>
+ 
+  <body>
+    
+  <h1 id="welcome"> Hi </h1>
+  <h1 class="heading"> Tomi
+  </h1>
+    <b>
+      <p class="heading"> Tomi is a guy</p>
+
+    </b>
+    <a href="#">link</a>
+    <i class="material-icons">cloud</i>
+    <i class="material-icons">computer</i>
+    <i class="material-icons">traffic</i>
+    
+  
+  </body>
+</html>
+
+
+output : 
+icons of the cloud, computer and traffic
