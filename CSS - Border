@@ -1,0 +1,47 @@
+body{
+
+    }
+
+/* Different types of border
+border-style: solid ;
+border-style: dotted
+border-style: groove
+border-style: dashed;
+ border-style: double;
+ border-style: ridge ;
+ border-style: outset ;
+border-style: hidden
+
+border-width: thick;
+border-width: 60px;
+border-width: medium;
+
+border-width: 10px 5px 11px 22px;trbl->Top, Right, Bottom, Left
+border-width: 10px 5px ; -> 10px for top and boottom and 5px for right and left
+border-color: purple;
+border-color: purple blue green red; -> purple for top and blue for right, green for bottom, red to left.
+#2334->long way of doing that->
+border-top-style: dashed;
+border-right-style: dotted;
+border-bottom-style: dotted;
+border-left-style: dashed;
+
+easy of doing #2335
+ border-style: dashed dotted;
+
+ border-left: dashed; -> one singular side fo the border
+if you want add the color and width to it
+ border-left: 10px dashed purple; 10 px is width, dashed -> stlye of the border, purple -> color of the border
+border-radius: 10px; -> to round the border
+border-radius: 10px 20px 30px 40px; -> it will round the border in a clockwise 
+
+
+*/
+
+
+
+h1 {
+   border: 3px solid purple;
+  border-radius: 10px 20px 30px;
+ 
+}
