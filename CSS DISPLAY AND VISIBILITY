@@ -1,0 +1,25 @@
+body{
+}
+/*display: none; ->  display : none ->will removes the element from layout*/
+/*visibility: hidden;->  visibility: hidden -> will hide the element but preserving its position*/
+
+table,th,td
+{
+  visibility: hidden;
+border: 2px double ;  
+  width: 50%;
+  border-collapse: collapse ;
+  
+  
+
+}
+
+th, td{
+  padding:10px;
+  text-align: left;
+  
+}
+/*tr.hover -> whenever mouse hovers to the table content it's highlight*/
+tr:hover{
+  background-color: lightgreen;
+}
