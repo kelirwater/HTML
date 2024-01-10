@@ -1,0 +1,52 @@
+body{
+
+    }
+/* text-align by default is :left
+text-align\
+vertical-align->top
+ text-decoration-line: underline;
+ text-decoration-line: overline
+ text-decoration-line: line-through;
+
+text-decoration-line: underline overline line-through;
+underline -> under the line
+overline -> top of the line
+line-through -> cut the line
+you can color to the line and type of line you want with the style
+text-decoration-color: green ;
+text-decoration-style: dashed;
+text-decoration-thickness-> the thickness of the line
+text-decoration-thickness: 10px;
+
+write all of them in the single line
+"text-decoration-line: underline overline line-through;
+text-decoration-color: green ;
+text-decoration-style: dotted;
+text-decoration-thickness: 10px;"
+
+ as the text-decoration: overline purple solid 60px;
+text-decoration: none; -> deals everthing as none. even the other with the default colors
+
+text-transform: lowercase-> make everthing in lowercase
+text-transform: uppercase-> make everything in uppercase
+text-transform: capitalize> make everything in start with the capital letter.
+text-indent: 30px; indent your text with the space in front.
+letter-spacing: 30px;-> give space to letters in the each word. effects evrthing
+example : H i
+          T o m i
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; -> font style
+font-style:italic;
+font-style: oblique;
+font-style: normal;-> same way as normal;
+font-weight: bold; -> 
+font size: 50em -> 50px = 1em.
+
+
+;*/
+
+h1,b {
+/*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', */
+  font-weight: bold;
+  font-size: 4em;
+  
+}
