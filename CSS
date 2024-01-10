@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+
+<html>
+
+  <head>
+    
+    <title > My Page </title>  
+    <link rel="stylesheet" href="style.css">
+    
+  </head>
+ 
+  <body>
+    
+  <h1 id="welcome"> Hi </h1>
+  <h1 class="heading"> Tomi </h1>
+    <b>
+      <p class="heading"> Tomi </p>
+
+    </b>
+  
+  </body>
+</html>
+CSS: 
+body{
+
+    }
+b{
+  margin-top: 60px;
+}
+p {
+  margin-top: inherit ;
+}
