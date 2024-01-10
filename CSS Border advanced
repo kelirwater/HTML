@@ -1,0 +1,22 @@
+body{
+
+    }
+
+/* Padding
+padding: 40px;-> adding the space to the border and the content.
+Height and widht->
+when use the percentage ->it will cover the amount of the screen with regards t0 screen size 
+max-width -> Allows authors to constrain content width to a certain range.
+
+min-width -> Allows authors to constrain content width to a certain range.
+outline-style -> Allows authors to set the style of the outline.
+outline-offset-> Allows authors to set the offset of the outline.
+*/
+
+
+
+h1 {
+   border: 3px dashed purple;
+   outline-style: solid;
+  outline-offset: 10px;
+}
